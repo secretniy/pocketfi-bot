@@ -17,8 +17,8 @@ Join our Telegram group to stay updated and get instructions on how to use this 
 
 | Feature        | Status |
 | -------------- | ------ |
-| Auto Check-in  | On/Off | 
-| Auto Do Task   | On/Off | 
+| Auto Claim  | Default | 
+| Auto Activate Daily Boost | Default | 
 
 
 ## 🧑‍🔧 How to install in Linux
@@ -125,8 +125,8 @@ socks5://user:pass@127.0.0.1:6969
 
 | Функция | Статус |
 | -------------- | ------ |
-| Авто Check-in | Вкл./Выкл. |
-| Автоматическое выполнение задач | Вкл./Выкл. |
+| Авто сбор| Неизменно |
+| Автоматический дневной буст | Неизменно |
 
 
 ## 🧑‍🔧 Как установить в Linux
