@@ -2,9 +2,9 @@
 - [English](#English)
 - [Русский](#Русский)
 # English
-# Blum - Auto Claim Bot
+# Pocketfi Bot
 
-🔗 **Referral Link**: [Blum](https://t.me/blum/app?startapp=ref_9yV9Sg3ZGl)
+🔗 **Referral Link**: [PocketFi](https://t.me/pocketfi_bot/Mining?startapp=948720889)
 
 ## 📢 Telegram Group
 
@@ -15,20 +15,18 @@ Join our Telegram group to stay updated and get instructions on how to use this 
 
 ## 🌟 Features
 
-| Feature        | Status | Description                                |
-| -------------- | ------ | ------------------------------------------ |
-| Auto Check-in  | On/Off | Daily login to get points and game tickets |
-| Auto Do Task   | On/Off | Complete tasks                             |
-| Auto Claim Ref | On/Off | Claim point from ref                       |
-| Auto Farm      | On/Off | Claim and Start farming points             |
-| Auto Play Game | On/Off | Play drop game to get more points          |
+| Feature        | Status |
+| -------------- | ------ |
+| Auto Check-in  | On/Off | 
+| Auto Do Task   | On/Off | 
+
 
 ## 🧑‍🔧 How to install in Linux
 #Linux
 ```shell
 apt install -y git python3 python3-pip
-git clone https://github.com/secretniy/blum-bot.git
-cd blum-bot/
+git clone https://github.com/secretniy/pocketfi-bot.git
+cd pocketfi-bot/
 python3 -m pip install -r requirements.txt --break-system-packages
 ```
 Enter you (`query_id=... /user=...`) in file data.txt. Each new token from a new line.
@@ -42,12 +40,6 @@ To change a file in bash use the command `nano data.txt`
 `ctrl+x` -  exit editor.
 
 
-Modify the config.json file as desired.
-
-To enable functions set `true`
-To disable functions `false`
-
-To change a config file in bash use the command `nano config.json`
 
 ## 👩‍🔧 How to install in Windows
 #Windows
@@ -59,12 +51,12 @@ To change a config file in bash use the command `nano config.json`
 
 2. Clone this repository
    ```shell
-   git clone https://github.com/secretniy/blum-bot.git
+   git clone https://github.com/secretniy/pocketfi-bot.git
    ```
 
-3. goto blum-bot directory
+3. goto pocketfi-bot directory
    ```
-   cd blum-bot
+   cd pocketfi-bot
    ```
 
 4. install the require library
@@ -118,9 +110,9 @@ socks5://user:pass@127.0.0.1:6969
 
 
 # Русский
-# Blum - Автоматический бот
+# Pocketfi - Автоматический бот
 
-🔗 **Реферальная ссылка**: [Blum](https://t.me/blum/app?startapp=ref_9yV9Sg3ZGl)
+🔗 **Реферальная ссылка**: [PocketFi](https://t.me/pocketfi_bot/Mining?startapp=948720889)
 
 ## 📢 Группа в Telegram
 
@@ -131,20 +123,18 @@ socks5://user:pass@127.0.0.1:6969
 
 ## 🌟 Функции
 
-| Функция | Статус | Описание |
-| -------------- | ------ | ------------------------------------------ |
-| Авто Check-in | Вкл./Выкл. | Ежедневный вход для получения очков и игровых билетов |
-| Автоматическое выполнение задач | Вкл./Выкл. | Выполнение задач |
-| Автоматическое получение прибыли рефералов | Вкл./Выкл. | Получить балл от реферала |
-| Автоматическая ферма | Вкл/Выкл | Получить и начать фармить баллы |
-| Автоматическая игра | Вкл/Выкл | Играйте в игру drop, чтобы получить больше баллов |
+| Функция | Статус |
+| -------------- | ------ |
+| Авто Check-in | Вкл./Выкл. |
+| Автоматическое выполнение задач | Вкл./Выкл. |
+
 
 ## 🧑‍🔧 Как установить в Linux
 #Linux
 ```shell
 apt install -y git python3 python3-pip
-git clone https://github.com/secretniy/blum-bot.git
-cd blum-bot/
+git clone https://github.com/secretniy/pocketfi-bot.git
+cd pocketfi-bot/
 python3 -m pip install -r requirements.txt --break-system-packages
 ```
 Введите (`query_id=... /user=...`) в файл data.txt. Каждый новый токен с новой строки.
@@ -157,12 +147,6 @@ python3 -m pip install -r requirements.txt --break-system-packages
 
 `ctrl+x` - выйти из редактора.
 
-Измените файл config.json по желанию.
-
-Чтобы включить функции, установите `true`
-Чтобы отключить функции, установите `false`
-
-Чтобы изменить файл конфигурации в bash, используйте команду `nano config.json`
 
 ## 👩‍🔧 Как установить в Windows
 #Windows
@@ -174,12 +158,12 @@ git site : [https://git-scm.com/](https://git-scm.com/)
 
 2. Клонируйте этот репозиторий
 ```shell
-git clone https://github.com/secretniy/blum-bot.git
+git clone https://github.com/secretniy/pocketfi-bot.git
 ```
 
-3. Перейдите в каталог blum-bot
+3. Перейдите в каталог pocketfi-bot
 ```
-cd blum-bot
+cd pocketfi-bot
 ```
 
 4. Установите зависимости
@@ -225,5 +209,4 @@ socks5://user:pass@127.0.0.1:6969
 ## ⚠️ Примечание
 
 - Получите данные аутентификации (`query_id=... /user=...`) на вкладке `Application` в DevTools.
-- Автоматические функции: измените `false` на `true` в файле `config.json`.
 - Поддерживаемые команды: `/run_bot` `/query_id` `/proxy` `/proxy_web` (Присоединяйтесь к группе, чтобы использовать эти команды).
