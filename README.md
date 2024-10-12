@@ -103,7 +103,6 @@ socks5://user:pass@127.0.0.1:6969
 ## ⚠️ Note
 
 - Get auth data (`query_id=... /user=...`) in the `Application` tab in DevTools.
-- Auto features: Change `false` to `true` in the `config.json` file.
 - Supported commands: `/run_bot` `/query_id` `/proxy` `/proxy_web` (Join group to use these commands).
 
 
