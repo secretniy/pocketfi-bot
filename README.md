@@ -62,6 +62,7 @@ To change a file in bash use the command `nano data.txt`
 4. install the require library
    ```
    python -m pip install -r requirements.txt
+   pip install brotli
    ```
 
 5. Edit `data.txt`, input you data token in `data.txt`, find you token in How to find [query_id=... /user=..](https://t.me/secretniy). One line for one data account, if you want add you second account add in new line!
@@ -168,6 +169,7 @@ cd pocketfi-bot
 4. Установите зависимости
 ```
 python -m pip install -r requirements.txt
+pip install brotli
 ```
 
 5. Отредактируйте `data.txt`, введите свой токен данных в `data.txt`, где найдите свой токен [query_id=... /user=..](https://t.me/secretniy). Одна строка для одной учетной записи данных, если вы хотите добавить вторую учетную запись, добавьте новую строку!
